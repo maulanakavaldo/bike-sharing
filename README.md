@@ -23,7 +23,7 @@ The steps to create your virtual environment from this project is as follows:
    git clone https://github.com/maulanakavaldo/bike_sharing.git
    ```
 
-2. Move to directory Dicoding-BADP
+2. Move to directory bike_sharing/
    ```
    cd bike_sharing
    ```
