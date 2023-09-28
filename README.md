@@ -6,9 +6,16 @@
 ## Streamlit Cloud :
 Streamlit Cloud : [Bike Sharing Dashboard](https://maulanakavaldo-dicoding-bikesharing.streamlit.app/)
 
-![Bike Sharing Dashboard Preview](https://github.com/maulanakavaldo/bike_sharing/blob/main/images/bike_sharing_dashboard.png)
+![Bike Sharing Dashboard Preview](images/bike_sharing_dashboard.png)
 
-## Project installation to personal virtual environment
+## Setup environment
+- Install Visual Studio Code for Editor
+- Execute this command on command line ( as administrato prefered)
+```
+pip install pandas streamlit plotly scikit-learn
+```
+
+## Project installation
 The steps to create your virtual environment from this project is as follows:
 
 1. Clone this repository
