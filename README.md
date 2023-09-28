@@ -10,7 +10,7 @@ Streamlit Cloud : [Bike Sharing Dashboard](https://maulanakavaldo-dicoding-bikes
 
 ## Setup environment
 - Install Visual Studio Code for Editor
-- Execute this command on command line ( as administrato prefered)
+- Execute this command on command line ( as administrator prefered)
 ```
 pip install pandas streamlit plotly scikit-learn
 ```
