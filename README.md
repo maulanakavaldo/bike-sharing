@@ -6,8 +6,7 @@
 ## Streamlit Cloud :
 Streamlit Cloud : [Bike Sharing Dashboard](https://maulanakavaldo-dicoding-bikesharing.streamlit.app/)
 
-![Bike Sharing Dashboard Preview](https://raw.githubusercontent.com/anddfian/Dicoding-BADP/main/Submission/preview.png)
-
+![Bike Sharing Dashboard Preview](https://github.com/maulanakavaldo/bike_sharing/blob/main/images/bike_sharing_dashboard.png)
 
 ## Project installation to personal virtual environment
 The steps to create your virtual environment from this project is as follows:
