@@ -34,7 +34,12 @@ The steps to create your virtual environment from this project is as follows:
 4. Stop the application program by `ctrl + c`.
 
 
-*Note:*
+**Note:**
+
 In the dashboard folder there are 2 files (.py):
 1. bike-sharing-dashboard.py: visualization using built-in streamlit
 2. bike-sharing-dashboard-plotly.py: visualization using an additional library namely plotly.express, which in my opinion with plotly you can customize the graphics more.
+
+**! There may be differences in directory order, so make sure you enter the correct directory.**
+
+**Thank youuu!!**
