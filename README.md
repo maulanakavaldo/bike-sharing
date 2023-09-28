@@ -4,7 +4,7 @@
 [Bike Sharing Dataset](https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view?usp=sharing)
 
 ## Streamlit Cloud :
-Streamlit Cloud : [Bike Sharing Dashboard](https://maulanakavaldo-dicoding-bikesharing.streamlit.app/)
+Streamlit Cloud : [Bike Sharing Dashboard](https://maulanakavaldo-dicoding-bikesharing.streamlit.app/){:target="_blank"}
 
 ![Bike Sharing Dashboard Preview](https://github.com/maulanakavaldo/bike_sharing/blob/main/images/bike_sharing_dashboard.png)
 
