@@ -43,3 +43,7 @@ In the dashboard folder there are 2 files (.py):
 **! There may be differences in directory order, so make sure you enter the correct directory.**
 
 **Thank youuu!!**
+
+
+## Review
+![Hasil review dari Dicoding](images/review.png)
